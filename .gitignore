@@ -25,6 +25,8 @@
 *.log
 *.sql
 *.sqlite
+!src/db/migrations/*.sql
+src/db/school.db
 
 # OS generated files #
 ######################
